@@ -1,0 +1,18 @@
+.app {
+  text-align: center;
+}
+
+.calculator {
+  background-color: white;
+  align-items: center;
+  color: black;
+}
+
+input {
+  width: 60px
+}
+
+header {
+  font-weight: bold;
+  font-size: 30px;
+}
